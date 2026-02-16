@@ -8,3 +8,5 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
+      - key: VERIFY_TOKEN
+        value: teste_token
